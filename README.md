@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Tooba-Liaquat
-- 👀 I’m interested in App Development
 - 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Mobile App Development
 - 📫 How to reach me: E-mail:tooba832456@gmail.com
 
 <!---
